@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Vitor 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitork.kmm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitorkmm)
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorkmmm&show_icons=true&theme=dracula&count_private=true)
 <!--
